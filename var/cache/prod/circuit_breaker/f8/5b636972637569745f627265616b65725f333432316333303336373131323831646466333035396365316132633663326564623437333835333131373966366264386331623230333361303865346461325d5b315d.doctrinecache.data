@@ -1,0 +1,91 @@
+1618034336
+s:6580:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>4 leviers pour booster votre croissance en 2021</title>
+    <link>https://www.prestashop.com/fr/blog/leviers-booster-croissance</link>
+    <description>En 2020, 72% des commerçants ont investi dans le digital afin de maintenir leur activité malgré les restrictions sanitaires (étude YouGov pour PayPlug).</description>
+     <pubDate>Wed, 07 Apr 2021 16:03:08 +0200</pubDate>
+ <dc:creator>Roxane Tranchard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/leviers-booster-croissance</guid>
+  </item>
+  <item>
+    <title>Core Web Vitals : préparer son site e-commerce PrestaShop à la nouvelle mise à jour Google </title>
+    <link>https://www.prestashop.com/fr/blog/core-web-vitals</link>
+    <description>Chaque année, Google améliore son algorithme de classement des sites web en effectuant de nombreuses mises à jour. La prochaine ? Le projet Core Web Vitals annoncé pour mai 2021.</description>
+     <pubDate>Tue, 06 Apr 2021 17:18:04 +0200</pubDate>
+ <dc:creator>Julien Petitjean</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/core-web-vitals</guid>
+  </item>
+  <item>
+    <title>TVA : De nouvelles règles applicables pour l’Union européenne à partir du 1er juillet 2021</title>
+    <link>https://www.prestashop.com/fr/blog/union-europeenne-tva</link>
+    <description>Le 1er juillet 2021, les règles de TVA applicables à la Vente à Distance (VAD) et plus largement à l’e-commerce BtoC seront profondément modifiées pour tous les pays de l’Union européenne (UE).</description>
+     <pubDate>Sun, 04 Apr 2021 09:20:12 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/union-europeenne-tva</guid>
+  </item>
+  <item>
+    <title>Et si vous tentiez le e-commerce pour votre reconversion professionnelle ?</title>
+    <link>https://www.prestashop.com/fr/blog/ecommerce-reconversion</link>
+    <description>À une époque où il est devenu rare de faire le même métier toute sa vie, la reconversion professionnelle est une étape que vous serez de plus en plus nombreux à vivre.</description>
+     <pubDate>Mon, 29 Mar 2021 16:37:26 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ecommerce-reconversion</guid>
+  </item>
+  <item>
+    <title>Order Management System: une évidence pour une expérience client omnicanale à succès </title>
+    <link>https://www.prestashop.com/fr/blog/order-management-system</link>
+    <description>Le commerce se conjugue de plus en plus au pluriel, on parle d’omnicanalité, voire même de commerce unifié, un terme en vogue depuis quelques années.</description>
+     <pubDate>Fri, 26 Mar 2021 17:36:55 +0100</pubDate>
+ <dc:creator>Anna Thibout</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/order-management-system</guid>
+  </item>
+  <item>
+    <title>La Valeur Vie Client (VVC), un indicateur du comportement d’achat de vos clients</title>
+    <link>https://www.prestashop.com/fr/blog/valeur-vie-client-vvc</link>
+    <description>Vous souhaitez mesurer le succès de votre site e-commerce ? Vous pouvez vous contenter d’un indicateur relatif au nombre de ventes ou à vos revenus.</description>
+     <pubDate>Mon, 22 Mar 2021 10:49:56 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/valeur-vie-client-vvc</guid>
+  </item>
+  <item>
+    <title>Comment l’économie collaborative peut apporter une plus-value à votre site e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/economie-collaborative-e-commerce</link>
+    <description>Aujourd’hui, on rencontre une certaine homogénéité des sites e-commerce : les mêmes produits vendus, parfois sur plusieurs marketplaces, le même type de packshots ou de visuels, les mêmes templates</description>
+     <pubDate>Thu, 18 Mar 2021 16:43:53 +0100</pubDate>
+ <dc:creator>Édouard Dumortier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/economie-collaborative-e-commerce</guid>
+  </item>
+  <item>
+    <title>Une journée spéciale agences par PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/journee-agences-prestashop</link>
+    <description>Le 3 mars dernier, PrestaShop a lancé son Agency Value Day France.</description>
+     <pubDate>Thu, 18 Mar 2021 16:10:24 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/journee-agences-prestashop</guid>
+  </item>
+  <item>
+    <title>Women in Tech : Interview avec l’ambassadrice PrestaShop Patricia Perochena</title>
+    <link>https://www.prestashop.com/fr/blog/interview-ambassadrice-patricia-perochena</link>
+    <description>Il est bien connu que les femmes sont sous-représentées dans le secteur technologique. Nous aimerions que cela change.</description>
+     <pubDate>Mon, 15 Mar 2021 16:34:05 +0100</pubDate>
+ <dc:creator>Océane Juste</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/interview-ambassadrice-patricia-perochena</guid>
+  </item>
+  <item>
+    <title>Comment augmenter ses ventes et fidéliser ses clients grâce au paiement fractionné ?</title>
+    <link>https://www.prestashop.com/fr/blog/paiement-fractionne-ecommerce</link>
+    <description>Selon une récente étude de Salecycle*, 75,6% des acheteurs abandonnent leur panier au moment de payer.</description>
+     <pubDate>Fri, 12 Mar 2021 15:25:59 +0100</pubDate>
+ <dc:creator>Louise Le Guillou</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/paiement-fractionne-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";

@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'oneboutic',
+    'database_user' => 'root',
+    'database_password' => 'DTC*Bdd@21ii',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'cR49gDtULcLzLkQv6IiDQMi1gX3vRe5S4YEU6YALnd9VB4sUifUUWSsg292oORAe',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-04-09',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'cosdA9x3vDrxANRtwZxkJ1PKCz14pn0XRUtgQWR3cvfnR6EAar6gYYKXGRmTkD0E',
+    'cookie_iv' => 'jVQB5AKcRBKa0pQCtu3N2RynnQPVdina',
+    'new_cookie_key' => 'def000007f0bc240f15936050143b85e542aedaa84ed493e0390152a8e7c0fafbe24ce6fd0b107a56103a443fc7c5374c1959dbe720123a7693533c16bddfce1b7a715dd',
+  ),
+);
